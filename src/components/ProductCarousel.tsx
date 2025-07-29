@@ -107,7 +107,7 @@ const products = [
   },
     {
     id: 10,
-    title: 'Zapatillas Salomon Trail',
+    title: 'Zapatillas Salomon Traiee',
     description: 'Trail',
     price: 159999,
     image: '/imagen1.webp',
